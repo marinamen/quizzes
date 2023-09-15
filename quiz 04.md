@@ -19,8 +19,8 @@
 #proof/test˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
-<img width="1145" alt="Screenshot 2023-09-11 at 21 01 35" src="https://github.com/marinamen/quizzes/assets/142757957/4e9baae5-57ec-457c-b461-c5d0c41d56b1">
+![](https://github.com/marinamen/quizzes/blob/main/pictures/Screenshot%202023-09-11%20at%2021.01.35.png)
 
 #flowchart˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
-![quiz4](https://github.com/marinamen/quizzes/assets/142757957/fc69f13f-13d0-4365-92fd-808e8dfe5c69)
+![](https://github.com/marinamen/quizzes/blob/main/pictures/quiz4.jpg)
