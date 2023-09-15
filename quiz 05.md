@@ -20,10 +20,10 @@
 
 #proof/test˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
-<img width="614" alt="Screenshot 2023-09-11 at 22 31 35" src="https://github.com/marinamen/quizzes/assets/142757957/0bc1aec3-debf-47eb-b78d-7b579418b262">
 
+![](https://github.com/marinamen/quizzes/blob/main/pictures/Screenshot%202023-09-11%20at%2022.31.35.png)
 
 
 #flowchart˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
-![IMG_1467](https://github.com/marinamen/quizzes/assets/142757957/d3eb2ea6-430b-4f4f-904f-384f83af9609)
+![](https://github.com/marinamen/quizzes/blob/main/pictures/letter%20sum.png)
