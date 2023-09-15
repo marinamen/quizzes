@@ -30,13 +30,11 @@
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
 
-<img width="1330" alt="Screenshot 2023-09-12 at 00 16 42" src="https://github.com/marinamen/quizzes/assets/142757957/3401a459-0991-4e68-ba4d-a43080b9ef97">
-
+![](https://github.com/marinamen/quizzes/blob/main/pictures/Screenshot%202023-09-12%20at%2000.16.42.png)
 
 
 
 
 #flowchart˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
-<img width="679" alt="Screenshot 2023-09-15 at 10 47 30" src="https://github.com/marinamen/quizzes/assets/142757957/31e0a4fc-8c33-406d-885f-abd9f95c828e">
-
+![](https://github.com/marinamen/quizzes/blob/main/pictures/08.png)
