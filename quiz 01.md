@@ -1,7 +1,8 @@
 **QUIZ 01**　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　
+1. Black Box:Describe a program that  produces the output shown with the input provided.
 
-  #code
+#code
 
     intext = input("input:  ")
     words = intext.split()
