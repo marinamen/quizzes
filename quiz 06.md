@@ -20,11 +20,13 @@
 #missing a input before the main code start: 
 room int input:
 
-![IMG_9895](https://github.com/marinamen/quizzes/assets/142757957/f7c2e3ab-2211-45ba-91ef-15071bed0b86)
+<img width="1160" alt="Screenshot 2023-09-11 at 21 21 31" src="https://github.com/marinamen/quizzes/assets/142757957/d13d1b70-5d21-4a98-bc34-5626cbe4ba73">
+
+
 
 
 
 #flowchart˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
-<img width="1160" alt="Screenshot 2023-09-11 at 21 21 31" src="https://github.com/marinamen/quizzes/assets/142757957/17c7b6e6-c910-44f5-b8f2-0239d9112206">
+<img width="922" alt="Screenshot 2023-09-15 at 10 37 46" src="https://github.com/marinamen/quizzes/assets/142757957/26b333cf-4ad0-43ba-b07e-a02cc5011a4c">
