@@ -17,11 +17,9 @@
     print_roomlocation(room_number)
 #proof/test˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
-#missing a input before the main code start: 
-room int input:
 
-<img width="1160" alt="Screenshot 2023-09-11 at 21 21 31" src="https://github.com/marinamen/quizzes/assets/142757957/d13d1b70-5d21-4a98-bc34-5626cbe4ba73">
 
+![](https://github.com/marinamen/quizzes/blob/main/pictures/Screenshot%202023-09-11%20at%2021.21.31.png)
 
 
 
@@ -29,4 +27,7 @@ room int input:
 #flowchart˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
-<img width="922" alt="Screenshot 2023-09-15 at 10 37 46" src="https://github.com/marinamen/quizzes/assets/142757957/26b333cf-4ad0-43ba-b07e-a02cc5011a4c">
+#missing a input before the main code start: 
+room int input:
+
+![](https://github.com/marinamen/quizzes/blob/main/pictures/hotel.png)
