@@ -1,5 +1,6 @@
 **QUIZ 03**˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
+
 3. Create a program that translate the proteins in the DNA chain as shown below
 
 #code
@@ -25,11 +26,9 @@
 
 #proof/test˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
-<img width="1253" alt="Screenshot 2023-09-11 at 20 35 22" src="https://github.com/marinamen/quizzes/assets/142757957/9a1a24f3-59f6-40f3-b013-fba5824e51dd">
-
+![](https://github.com/marinamen/quizzes/blob/main/pictures/Screenshot%202023-09-11%20at%2020.35.22.png)
 
 #flowchart˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
-![IMG_1465](https://github.com/marinamen/quizzes/assets/142757957/5ea214f2-1b97-4e31-9c33-97f8ff3a2799)
-
+![](https://github.com/marinamen/quizzes/blob/main/pictures/dna.png)
    
