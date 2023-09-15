@@ -1,5 +1,6 @@
 **QUIZ 02**　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
-　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　
+.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　
+
 2. Given 2 numbers, A and B, Output TRUE if one of them is 20 or if their sum is 20.
 
   #code
@@ -19,9 +20,9 @@
 #test/proof　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　
 
-<img width="1334" alt="Screenshot 2023-09-11 at 20 15 56" src="https://github.com/marinamen/quizzes/assets/142757957/05a40010-98ba-4555-8088-7b451cf9c675">
+![](https://github.com/marinamen/quizzes/blob/main/pictures/Screenshot%202023-09-11%20at%2020.15.56.png)
 
 
 #flowchart        ✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　
-   ![IMG_1464](https://github.com/marinamen/quizzes/assets/142757957/25d4929f-ab95-4575-9e86-8f80267ecea6)
+![](https://github.com/marinamen/quizzes/blob/main/pictures/x%2By.png)
