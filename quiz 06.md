@@ -1,6 +1,7 @@
 **QUIZ 06**˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 6. A hotel has 10 floors and 10 rooms on each floor. Write a program that prints the names of all rooms.
+
 #code
 
     room_number = int(input("Enter a room number (1-100): "))
