@@ -19,10 +19,10 @@
 
   #test/proof　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　
-<img width="1168" alt="Screenshot 2023-09-15 at 10 15 52" src="https://github.com/marinamen/quizzes/assets/142757957/62cae229-1ed3-4e07-8f52-761e89ccc39f">
+   ![](https://github.com/marinamen/quizzes/blob/main/pictures/Screenshot%202023-09-15%20at%2010.15.52.png)
 
 
    #flowchart　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　
 
-   ![IMG_1456](https://github.com/marinamen/quizzes/assets/142757957/20dbdf99-e279-43dd-b832-1fadc356d96f)
+![](https://github.com/marinamen/quizzes/blob/main/pictures/01word.png)
