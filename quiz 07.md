@@ -22,12 +22,10 @@
 #proof/test˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
-
-![](https://github.com/marinamen/quizzes/blob/main/pictures/number%2015.png)
+![](https://github.com/marinamen/quizzes/blob/main/pictures/Screenshot%202023-09-12%20at%2000.01.45.png)
 
 
 
 #flowchart˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
-![](https://github.com/marinamen/quizzes/blob/main/pictures/Screenshot%202023-09-12%20at%2000.01.45.png)
-   
+![](https://github.com/marinamen/quizzes/blob/main/pictures/number%2015.png)
