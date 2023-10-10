@@ -1,7 +1,9 @@
 **QUIZ 016** 　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
+
 16. Create a function that produces the average world length of the input list
+
 
 #code
 ```.py
